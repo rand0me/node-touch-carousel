@@ -11,7 +11,7 @@
   "files": [
     "lib"
   ],
-  "main": "lib\\index.js",
+  "main": "lib/index.js",
   "keywords": [
     "jquery",
     "plugin",
@@ -35,7 +35,7 @@
       "mocha": true
     }
   },
-  "repository": "rand0me/touch-carousel",
+  "repository": "rand0me/node-touch-carousel",
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"
