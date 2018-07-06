@@ -1,4 +1,7 @@
 # touch-carousel [![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url]
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/rand0me/node-touch-carousel.svg)](https://greenkeeper.io/)
+
 > A touch-carousel plugin by Dmitry Semenov ported to NPM
 
 ## Installation
